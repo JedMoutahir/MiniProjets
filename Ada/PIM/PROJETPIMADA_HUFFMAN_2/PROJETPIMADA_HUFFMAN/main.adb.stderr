@@ -1,0 +1,1 @@
+main.adb:25:04: warning: "recover" is not modified, could be declared constant [-gnatwk]

@@ -1,0 +1,2 @@
+huffman.adb:95:07: warning: "Result" is not modified, could be declared constant [-gnatwk]
+huffman.adb:104:07: warning: "Result" is not modified, could be declared constant [-gnatwk]

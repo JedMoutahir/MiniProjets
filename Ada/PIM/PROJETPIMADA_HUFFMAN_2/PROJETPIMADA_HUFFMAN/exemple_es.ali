@@ -1,0 +1,95 @@
+V "GNAT Lib v2021"
+M P W=b
+A -gnatA
+A -gnatwa
+A -gnata
+A -g
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IO
+RV NO_STREAMS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U exemple_es%b		exemple_es.adb		def203b6 NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.streams%s		a-stream.adb		a-stream.ali
+W ada.streams.stream_io%s  a-ststio.adb		a-ststio.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.concat_3%s	s-conca3.adb		s-conca3.ali
+Z system.img_uns%s	s-imguns.ads		s-imguns.ali
+Z system.stream_attributes%s  s-stratt.adb	s-stratt.ali
+Z system.unsigned_types%s  s-unstyp.ads		s-unstyp.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-ststio.ads		20210520051130 d6d358e8 ada.streams.stream_io%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D exemple_es.adb	20220112144022 a6d58e33 exemple_es%b
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D system.ads		20210520051136 2ffa5114 system%s
+D s-conca2.ads		20210520051132 02a0d7d0 system.concat_2%s
+D s-conca3.ads		20210520051132 0b705ca5 system.concat_3%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-imageu.ads		20210520051134 525c30c6 system.image_u%s
+D s-imguns.ads		20210520051134 0e4da2ac system.img_uns%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-stratt.ads		20210520051134 7bdda3fa system.stream_attributes%s
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z b b [exemple_es standard 4 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 12|1r6 1r33 2r6 2r23 9r21
+X 4 a-stream.ads
+36K13*Streams 87e16 12|1r10 1r37 9r25
+X 5 a-ststio.ads
+39K21*Stream_IO 224e26 12|1w18 1r45 9r33
+42P9*Stream_Access(4|39R9) 12|10r21
+44P9*File_Type 12|9r43
+47n23*In_File{47E9} 12|33r20
+47n32*Out_File{47E9} 12|17r23
+68U14*Create 12|17s9
+74U14*Open 12|33s9
+80U14*Close 12|27s9 47s9
+90V13*End_Of_File{boolean} 12|39s19
+92V13*Stream{42P9} 12|21s14 38s14
+X 10 a-textio.ads
+58K13*Text_IO 725e16 12|2w10 2r27
+262U14*New_Line 12|43s17
+463U14*Put 12|41s17 42s17
+X 12 exemple_es.adb
+4U11*Exemple_ES 4b11 49l5 49t15
+5M14 T_Octet 6r13 11r21 23r17 23r34 40r26 41r34
+8a9 File_Name{string} 17r33 33r29
+9p9 File{5|44P9} 17m17 17r17 21r22 27m16 27r16 33m14 33r14 38r21 39r31 47m16
+. 47r16
+10p9 S{5|42P9} 21m9 23r31 38m9 40r40
+11m9 Octet{5M14} 40m17 41r48 42r42
+22i13 I{integer} 23r42
+
