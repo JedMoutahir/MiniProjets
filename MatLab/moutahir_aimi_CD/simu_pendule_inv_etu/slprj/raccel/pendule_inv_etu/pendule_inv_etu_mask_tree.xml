@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/SlsaMaskTree/R2020a">
+  <slsa.mm.maskTree.MaskTree type="slsa.mm.maskTree.MaskTree" uuid="82318e8f-1488-4755-97fe-33f16ed29a87">
+    <maskedBlocks type="slsa.mm.maskTree.MaskedBlock" uuid="96845952-d6e2-4e6c-8277-49de56eaf654">
+      <blockPath>pendule_inv_etu/XY Graph</blockPath>
+      <id>pendule_inv_etu:42</id>
+      <masks type="slsa.mm.maskTree.Mask" uuid="9067a8ce-4dc1-45ec-945d-d4148008971e">
+        <dialogParameters type="slsa.mm.maskTree.DialogParameterInfo" uuid="86f94a4b-1c34-4488-a9f5-79bde1d07759">
+          <evaluate>true</evaluate>
+          <expression>-1</expression>
+          <isTunable>true</isTunable>
+          <name>xmin</name>
+        </dialogParameters>
+        <dialogParameters type="slsa.mm.maskTree.DialogParameterInfo" uuid="4fd4a59c-457b-4f01-b8ee-fe7a86368139">
+          <evaluate>true</evaluate>
+          <expression>1</expression>
+          <isTunable>true</isTunable>
+          <name>xmax</name>
+        </dialogParameters>
+        <dialogParameters type="slsa.mm.maskTree.DialogParameterInfo" uuid="b01de7e6-4839-4c53-8b8e-b97339e07d1c">
+          <evaluate>true</evaluate>
+          <expression>-1</expression>
+          <isTunable>true</isTunable>
+          <name>ymin</name>
+        </dialogParameters>
+        <dialogParameters type="slsa.mm.maskTree.DialogParameterInfo" uuid="f71b7a72-7c9c-4089-bb8a-bec084f151c1">
+          <evaluate>true</evaluate>
+          <expression>1</expression>
+          <isTunable>true</isTunable>
+          <name>ymax</name>
+        </dialogParameters>
+        <dialogParameters type="slsa.mm.maskTree.DialogParameterInfo" uuid="816981a6-4ce9-4aa4-8ede-b26844a62cc9">
+          <evaluate>true</evaluate>
+          <expression>-1</expression>
+          <isTunable>true</isTunable>
+          <name>st</name>
+        </dialogParameters>
+      </masks>
+      <parentId>root</parentId>
+    </maskedBlocks>
+    <maskedBlocks type="slsa.mm.maskTree.MaskedBlock" uuid="35321b6a-6099-4360-8840-76e819408eab">
+      <childrenIds>pendule_inv_etu:42</childrenIds>
+      <id>root</id>
+    </maskedBlocks>
+    <flags type="slsa.mm.maskTree.MaskTreeFlags" uuid="f305ec4f-7921-40ee-9efd-349726cf8e40"/>
+  </slsa.mm.maskTree.MaskTree>
+</MF0>
