@@ -1,0 +1,261 @@
+Nom       : GUET
+Prénom    : Paul-Henri
+Groupe TP : 1 TR2
+
+Les « ... » indiquent les endroits à compléter.
+
+=====[ Raffinages ]=============================================================
+
+-- Ne donner que les niveaux de raffinages qui sont informatifs.   Il est
+-- généralement inutile de donner le dernier niveau de raffinage qui ne
+-- contient que des étapes élémentaires
+
+
+R0 : Jouer au jeu des 13 allumettes avec l'ordinateur
+
+Exemples : On ne donnera pas d'exemple d'utilisation
+
+R1 : Raffinage de R0
+	Définir les paramètres du jeu
+	nom out chaine caractère
+	niveau out caractère
+	
+	Dérouler le jeu
+	nom in
+	joueur_user out boolean
+	gagnant out chaine caractère
+	allu_enleve out entier
+	
+	Afficher le gagnant
+	gagnant in
+
+	R2 : Comment "définir les paramètres du jeu"
+		écrire "Quel est votre nom?"
+		lire (nom)
+		écrire "Niveau de l'ordinateur (n)aïf, (d)istrait ou (e)xpert ?"
+		lire (niveau)
+		Si niveau <> 'n' et niveau <> 'N' et niveau <> 'd' et niveau <> 'D' et niveau <> 'e' et niveau <> 'E' Alors
+		écrire ("Désolé, je n'ai pas compris votre choix, le niveau de l'ordinateur sera en EXPERT par défaut.")
+		FinSi
+	
+	R2 : Comment "Dérouler le jeu"
+		écrire "Est-ce que vous commencez (o/n) ?"
+		lire (commence)
+		
+		Si commence = "o" ou "O" Alors
+			joueur_user <- vrai
+			Sinon
+			joueur_user <- faux
+		FinSi
+		allumettes <- 13 --initialiser le nombre des allumettes
+		allu_enleve <- 0 --initialiser le nombre des allumettes enlevées
+		TantQue allumettes > 0 Faire
+			afficher le reste des allumettes
+			allu_valide out boolean	--test de allu_enleve
+			allu_valide <- vrai
+			Si joueur_user = vrai Alors
+				faire jouer l'utilisateur
+				joueur_user <- faux
+				Sinon
+				faire jouer l'ordinateur
+				joueur_user <- vrai
+			FinSi
+						
+		FinTantQue
+
+		Si joueur_user = vrai Alors
+			gagnant <- nom
+			Sinon
+			gagnant <- "ordinateur"
+		FinSi
+
+		R3 : Comment "afficher le reste des allumettes"
+			Pour i de 0 à 2 par pas de 1 Faire
+				Pour j de allumettes à 1 par pas de 1 Faire
+					écrire ("|")
+					
+					Si module_5(alummettes - j+1)=0 Alors
+						afficher un espace
+					FinSi
+
+				FinPour
+
+				retour à la ligne
+
+			FinPour
+
+		R3 : Comment "faire jouer l'utilisateur"
+			Répéter
+				écrire (nom+",combien prenez-vous d'allumettes ?")
+				lire(allu_enleve)
+				Si allu_enleve >3 Alors
+					écrire ("La prise est limitée à 3 allumettes maximum!")
+					allu_valide <- faux
+				SinonSi allu_enleve < 0 Alors
+					écrire ("La prise est limitée à 1 allumettes minimum!")
+					allu_valide <- faux
+				SinonSi allu_enleve = 0 Alors
+					écrire ("Est-ce que vous voulez abandonner ?(o/n)")
+					lire (abandon)
+					Si abandon = "o" ou "O" Alors
+						allumettes <- 0	--Pour terminer le jeu
+						allu_valide <- vrai
+					Sinon
+						allu_valide <- faux
+					FinSi
+				Sinon 
+					Si allu_enleve > allumettes Alors
+						écrire ("Il reste seulement "+allumettes+" allumettes dans le tas.")
+						allu_valide <- faux
+					Sinon
+						allu_valide <- vrai
+					FinSi
+				FinSi
+			JusquA allu_valide = vrai
+
+				allumettes <- allumettes - allu_enleve
+
+		R3 : Comment "faire jouer l'ordinateur"
+			i out entier --une variable temporaire affectée par allu_enleve
+			Répéter
+				écrire ("Ordinateur, combien prenez-vous d'allumettes ?")
+				i <- allu_enleve
+
+				Selon niveau Dans
+					"n" ou "N" :
+						faire la stratégie de "naïf"
+
+					"e" ou "E" :
+						faire la stratégie de "expert"
+
+					"d" ou "D" :
+						faire la tratégie de "distrait"
+
+					Sinon
+						faire la stratégie de "expert"
+				FinSelon
+
+				Si i > allumettes Alors
+					écrire ("Il reste seulement "+allumettes+" allumettes dans le tas.")
+					allu_valide <- faux
+				Sinon
+					allu_valide <- vrai
+				FinSi
+
+			JusquA allu_valide = vrai
+			
+			allu_enleve <- i
+			allumettes <- allumettes - allu_enleve
+			écrire (allu_enleve)
+
+			R4 : Comment "faire la stratégie de NAIF"
+				Si allumettes >= 3 Alors
+					i <- aléatoire(1,3)
+				Sinon 
+					i <- aléatoire(1,allumettes)
+				FinSi
+
+			R4 : Comment "faire la stratégie de EXPERT"
+				Si allumettes = 1 Alors
+					i <- 1;
+				Sinon
+					Selon module_4(allumettes) Dans
+						0 :
+							i <- 3
+						1 :
+							Si i <> 0 Alors
+								i <- 4-allu_enleve
+							Sinon
+								i <- 1
+							FinSi
+						2 :
+							i <- 1
+						3 :
+							i <- 2
+					Sinon
+
+					FinSelon
+				FinSi
+
+			R4 : Comment "faire la stratégie de DISTRAIT"
+				quel_niveau <- aléatoire(0,1)
+				Si quel_niveau = 0 Alors
+					i <- aléatoire(1,3)
+				Sinon
+					faire la stratégie de "expert"
+
+
+
+
+
+
+
+=====[ Questions ]==============================================================
+
+
+
+Pourquoi l'exception OperationImpossibleException ne peut pas être contrôlée
+par le compilateur ?
+
+
+
+L'exception OperationImpossibleException ne peut pas être contrôlée par le compilateur puis la sous classe RuntimeExceptions de la classe Exception ne sont pas vérifiés par le compilateur.Il n'est donc pas nécessaire de les traites.
+RuntimeExceptions n'avez pas besoin d'être explicitement traitée par le code appelant.
+Donc en résumé ,une Exception est activée et une RuntimeExceptions n'est pas cochée.
+Cochée signifie que le compilateur exige que votre poignée la rattachés à une prise,ou déclarer votre méthode d'injecter(ou un de ses ancêtres).
+
+
+
+
+Expliquer ce qu'il faut faire pour ajouter un nouveau niveau de jeu.
+
+
+
+Pour ajouter un nouveau niveau de jeu dans le jeu des 13 allumettes il faut juste ecrire  (1 classe et modifier la classe déja implémenter(Partie.java)) :
+
+--->par exemple création d'une stratégie lente on doit donc créer une  classe de type  Strategielente qui hérite de la classe Interface Stratégie .
+
+--->Pour la deuxième classe,il faut juste modifié la méthode getStrategie dans Partie.java et ajouter le nom de la nouvelle stratégie à mettre en place
+--------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------
+
+=====[ Tests ]==================================================================
+
+-- Expliquer rapidement comment vous avez testé votre programme (et quels
+-- tests ont été réalisés).
+
+
+J'ai testé les 3 differentes Stratégies qui sont la stratégie experte,la stratégie naive et pour finir la stratégie rapide
+J'ai mis en communs presque les mêmes schémas de test pour les différentes stratégie  à savoir 
+l'utilisation de classe Assert avec la méthode principale main qui va utiliser la class de la stratégie(par exemple TestStrategieNaive.class.getName());
+Apres création d'une méthode setUp() qui va initialiser la stratégie adopté ici dans l'exemple la stratégie Naive
+
+Ensuite Utilisation de la méthode ToString() pour pouvoir si la stratégie charge est la bonne
+
+Et ensuite pour finir mon schéma de test j'ai mis en avant un test sur la prise de nombre allumettes pour un joueur voir si la stratégie mise en avant marche correctement.
+
+=====[ Difficultés ]============================================================
+
+Les stratégies rencontrées ont était la visualisation de deux classe Jeu pour éviter qu'il y ait une quelconque tricherie(Patron Proxy mandataire) pour cela l'Arbitre mettait un protocole pour visualiser si un  des deux joueurs a triché  ou pas,et il devait recommencer sa prise d'allumettes sans dépasser la PRISE_MAX=3 et que sont nombre soit inférieur à 0 sinon dans ce cas précis on levait une
+exception pour demander a l'utlisateur de recommencer sa pioche d'allumettes.
+-- Indiquer les difficultés rencontrées et les solutions apportées.
+--Le niveau des parties a était difficiles a metttre en oeuvre
+-L'affichage des allumettes et la solution vue dans le raffinage
+-La définition des 3 stratégies de l'ordinateur et la solution vue dans le
+raffinage
+-La définition des contraintes
+
+=====[ Remarques diverses ]=====================================================
+
+-L'utilisation des structures de contrôle différentes
+
+--------------------------------------------------------------------------------
