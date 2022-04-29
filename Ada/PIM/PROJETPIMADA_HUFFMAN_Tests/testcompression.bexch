@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__testcompression.o
+[PROJECT FILES]
+C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr
+20211227094100 92b4d4476559b87a5272779d621e5eb7
+[BOUND OBJECT FILES]
+C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\huffman.o
+C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\testCompression.o
+[GENERATED SOURCE FILES]
+b__testcompression.ads
+b__testcompression.adb
+b__testcompression.ali
+[RESULTING OPTIONS]
+-LC:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\
+-LC:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

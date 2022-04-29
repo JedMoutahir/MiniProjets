@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__exemple_es.o
+[PROJECT FILES]
+C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN\projectFile.gpr
+20211221080924 40e498cda96ceb509f8990451629e004
+[BOUND OBJECT FILES]
+C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN\exemple_es.o
+[GENERATED SOURCE FILES]
+b__exemple_es.ads
+b__exemple_es.adb
+b__exemple_es.ali
+[RESULTING OPTIONS]
+-LC:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN\
+-LC:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

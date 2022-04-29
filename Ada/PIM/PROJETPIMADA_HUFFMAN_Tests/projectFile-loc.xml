@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 7" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\bincode.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\bincode.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 17" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\bincode.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\bincode.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\testCompression.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 3" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\testCompression.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 225" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 3" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\testCompression.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 74" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 72" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 72" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 93" line=" 71" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 31" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 93" line=" 71" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 3" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\testCompression.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 41" line=" 19" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 74" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 132" line=" 71" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 41" line=" 47" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\testCompression.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 11" line=" 3" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_Tests\testCompression.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

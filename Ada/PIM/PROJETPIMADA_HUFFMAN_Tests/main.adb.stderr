@@ -1,0 +1,3 @@
+main.adb:18:04: warning: "File_Name_In" is not modified, could be declared constant [-gnatwk]
+main.adb:19:04: warning: "File_Name_Out" is not modified, could be declared constant [-gnatwk]
+main.adb:70:10: warning: "str" is not modified, could be declared constant [-gnatwk]
