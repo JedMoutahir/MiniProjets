@@ -1,0 +1,6 @@
+decomp.adb:15:04: warning: variable "Tree" is not referenced [-gnatwu]
+decomp.adb:16:04: warning: variable "Frequencies" is not referenced [-gnatwu]
+decomp.adb:17:04: warning: variable "Input_String" is not referenced [-gnatwu]
+decomp.adb:18:04: warning: constant "File_Name_In" is not referenced [-gnatwu]
+decomp.adb:22:04: warning: "recover" is not modified, could be declared constant [-gnatwk]
+decomp.adb:144:10: warning: constant "CodeReccupere" is not referenced [-gnatwu]
