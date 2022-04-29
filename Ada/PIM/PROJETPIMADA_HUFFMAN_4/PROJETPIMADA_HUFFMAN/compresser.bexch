@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__compresser.o
+[PROJECT FILES]
+C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_4\PROJETPIMADA_HUFFMAN\projectFile.gpr
+20220114184134 1edbc2562e5ff4e4af27a781f67e4d8c
+[BOUND OBJECT FILES]
+C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_4\PROJETPIMADA_HUFFMAN\huffman.o
+C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_4\PROJETPIMADA_HUFFMAN\compresser.o
+[GENERATED SOURCE FILES]
+b__compresser.ads
+b__compresser.adb
+b__compresser.ali
+[RESULTING OPTIONS]
+-LC:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_4\PROJETPIMADA_HUFFMAN\
+-LC:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_4\PROJETPIMADA_HUFFMAN\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
