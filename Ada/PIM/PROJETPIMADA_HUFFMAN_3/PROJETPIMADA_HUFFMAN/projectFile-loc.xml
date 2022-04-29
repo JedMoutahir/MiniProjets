@@ -1,0 +1,784 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_file>
+    <file_marker column=" 4" line=" 24" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 351" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 250" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 361" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 359" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 24" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 350" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 24" >
+      <vfs_project>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file>C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_3\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 26">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 23">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 26">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 151">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 26">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 151">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 26">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 151">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 25">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/decomp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 94" line=" 20">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 31">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/decomp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/decomp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 15">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/decomp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 77" line=" 111">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/decomp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 15">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/decomp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 77" line=" 111">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/decomp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 15">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/decomp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 260">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 149">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 260">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 258">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 106">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 195">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 248">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 209">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 208">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 260">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/exemple_es.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 8">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/exemple_es.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/decomp.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 83" line=" 209">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 212">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 209">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 238">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 114">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 100" line=" 238">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 104">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 118">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 118">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 336">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 346">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 226">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 56" line=" 146">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 124">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 123">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 136">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 142">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 5" line=" 24">
+      <vfs_project >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/projectFile.gpr</vfs_project>
+      <vfs_file >/home/jmoutahi/T#195;#169;l#195;#169;chargements/PROJETPIMADA_HUFFMAN/main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 65">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 85">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 89">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 330">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 330">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 330">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 133">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 54">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 62" line=" 15">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 133">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 62" line=" 15">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 61">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 133">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 61">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 54">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 133">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 54">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 133">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 330">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 330">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 275">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 282">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 276">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 271">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 265">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 276">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 90">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 312">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 133">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 54">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 316">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 310">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 312">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 310">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 312">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 322">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 54">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 322">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 59" line=" 309">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 60" line=" 311">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 317">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 324">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 322">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 59" line=" 319">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\exemple_es.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 8">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\exemple_es.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 18">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 25">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 133">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 25">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 133">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 40">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\exemple_es.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 8">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\exemple_es.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 40">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\exemple_es.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 8">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\exemple_es.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 138">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\testCompression.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 145">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 170">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 77">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 145">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 169">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 24">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 235">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 160">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 156">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 151">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 141">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 151">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 86">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 74">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 75" line=" 81">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 86">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 224">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 22" line=" 185">
+      <vfs_project >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\projectFile.gpr</vfs_project>
+      <vfs_file >C:\Users\Jed\Desktop\PROJETPIMADA_HUFFMAN_2\PROJETPIMADA_HUFFMAN\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

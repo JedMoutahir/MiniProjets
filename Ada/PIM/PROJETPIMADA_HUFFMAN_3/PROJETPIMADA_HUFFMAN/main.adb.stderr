@@ -1,0 +1,2 @@
+main.adb:24:04: warning: "recover" is not modified, could be declared constant [-gnatwk]
+main.adb:191:10: warning: variable "charPrecedent" is never read and never assigned [-gnatwv]

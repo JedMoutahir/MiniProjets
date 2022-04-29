@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__lire.o
+[PROJECT FILES]
+/home/jmoutahi/Bureau/PROJETPIMADA_HUFFMAN/projectFile.gpr
+20211227004058 139e08270f761484e81ce06424f5858c
+[BOUND OBJECT FILES]
+/home/jmoutahi/Bureau/PROJETPIMADA_HUFFMAN/lire.o
+[GENERATED SOURCE FILES]
+b__lire.ads
+b__lire.adb
+b__lire.ali
+[RESULTING OPTIONS]
+-L/home/jmoutahi/Bureau/PROJETPIMADA_HUFFMAN/
+-L/home/jmoutahi/Bureau/PROJETPIMADA_HUFFMAN/
+-L/mnt/n7fs/ens/tp_cregut/GNAT/2021/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/
+-static
+-static-libgcc
+/mnt/n7fs/ens/tp_cregut/GNAT/2021/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/libgnat.a
+-ldl
