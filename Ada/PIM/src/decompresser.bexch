@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__decompresser.o
+[PROJECT FILES]
+C:\Users\Jed\Desktop\src\projectFile.gpr
+20220115134948 3821cde438456fd5ca2feeed61f90c49
+[BOUND OBJECT FILES]
+C:\Users\Jed\Desktop\src\huffman.o
+C:\Users\Jed\Desktop\src\decompresser.o
+[GENERATED SOURCE FILES]
+b__decompresser.ads
+b__decompresser.adb
+b__decompresser.ali
+[RESULTING OPTIONS]
+-LC:\Users\Jed\Desktop\src\
+-LC:\Users\Jed\Desktop\src\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

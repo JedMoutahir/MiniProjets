@@ -1,0 +1,20 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}R\'esum\'e}{3}{}%
+\contentsline {section}{\numberline {2}Introduction}{3}{}%
+\contentsline {section}{\numberline {3}Architecture de l'application}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Choix, Algorithmes Principaux et Types Principaux}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Type pour la repr\'esentation de l'arbre de Huffman}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Type pour la construction de l'arbre de Huffman}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Construire l'arbre}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.4}Encoder le fichier}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.5}D\'ecoder le fichier}{4}{}%
+\contentsline {section}{\numberline {4}Test du module}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Cahier des charges}{4}{}%
+\contentsline {subsection}{\numberline {4.2}Rapidit\'e}{5}{}%
+\contentsline {subsection}{\numberline {4.3}Limites}{6}{}%
+\contentsline {section}{\numberline {5}Difficult\'es Rencontr\'ees}{6}{}%
+\contentsline {subsection}{\numberline {5.1}Lecture/\'Ecriture de fichier}{6}{}%
+\contentsline {subsection}{\numberline {5.2}R\'ecup\'eration de l'arbre de Huffman}{6}{}%
+\contentsline {section}{\numberline {6}R\'epartition}{6}{}%
+\contentsline {section}{\numberline {7}Conclusion}{6}{}%
+\contentsline {section}{\numberline {8}Bilan personnel}{7}{}%
